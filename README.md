@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://uimg.ngfiles.com/profile/15485/15485225.webp?f1709302481" alt="logo.png" width="173" /> 
+<img align="left" src="https://uimg.ngfiles.com/profile/15485/15485225.webp?f1709302481" alt="logo.png" width="170" /> 
 
 ```cs
 dx9scope@github
