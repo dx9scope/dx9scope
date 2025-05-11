@@ -9,7 +9,7 @@ dx9scope@github
 ----------------
        OS:  Microsoft Windows 11
     Shell:  powershell
-Languages:  C++, Python, C#
+Languages:  C++, Python
   Discord:  dx9scope
  Telegram:  @dx9scoped
          >  Да я спиздил это у партура а вы что хотели 😼
